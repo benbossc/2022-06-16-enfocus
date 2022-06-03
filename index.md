@@ -4,12 +4,12 @@ layout: workshop      # DON'T CHANGE THIS.
 # online workshop) are available at
 # https://carpentries.github.io/workshop-template/customization/index.html
 venue: "Technology Resource Center"        # brief name of the institution that hosts the workshop without address (e.g., "Euphoric State University")
-address: "1165 Franklin St, South Bend, IN 46601"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria"), videoconferencing URL, or 'online'
+address: "South Bend Technology Resource Center, 1165 Franklin St, South Bend, IN 46601"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria"), videoconferencing URL, or 'online'
 country: "us"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes) for the institution that hosts the workshop
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) for the workshop
 latitude: "41.662900"        # decimal latitude of workshop venue (use https://www.latlong.net/)
 longitude: "-86.255310"       # decimal longitude of the workshop venue (use https://www.latlong.net)
-humandate: "June 16, 2022"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
+humandate: "Thursday, June 16, 2022"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "3:00 pm - 7:00 pm EDT"    # human-readable times for the workshop e.g., "9:00 am - 4:30 pm CEST (7:00 am - 2:30 pm UTC)"
 startdate: 2022-06-16      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2022-06-16        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
